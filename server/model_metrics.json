@@ -1,0 +1,27 @@
+{
+  "accuracy": 0.819,
+  "f1_score": 0.611,
+  "samples_tested": 282,
+  "top_features": [
+    {
+      "name": "tenure",
+      "score": 0.248
+    },
+    {
+      "name": "TotalCharges",
+      "score": 0.133
+    },
+    {
+      "name": "Contract_Month-to-month",
+      "score": 0.122
+    },
+    {
+      "name": "MonthlyCharges",
+      "score": 0.099
+    },
+    {
+      "name": "Contract_Two year",
+      "score": 0.072
+    }
+  ]
+}
